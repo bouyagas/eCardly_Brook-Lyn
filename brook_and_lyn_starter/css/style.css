@@ -55,6 +55,6 @@ span {
 .img5,
 .img6 {
   flex-flow: row;
-  border: 5px solid gray;
+  border: 5px solid #999999;
   margin-left: 10px;
 }
